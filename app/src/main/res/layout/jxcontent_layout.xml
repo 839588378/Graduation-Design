@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!--这是安卓自带的下拉刷新控件-->
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refresh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/lv_jxContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <!--点击就返回顶部，并且刷新数据-->
+        <ImageView
+            android:id="@+id/iv_toTop"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right|bottom"
+            android:layout_margin="10dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/top_bag"
+            android:visibility="visible" />
+
+    </FrameLayout>
+</android.support.v4.widget.SwipeRefreshLayout>

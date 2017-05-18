@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tagid" type="id">tagid</item>
+    <!-- 定义一个id -->
+    <item type="id" name="actionbar">actionbarid</item>
+</resources>

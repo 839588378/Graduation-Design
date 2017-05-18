@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/funny_00"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_01"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_02"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_03"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_04"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_05"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_06"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_07"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_08"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_09"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_10"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_11"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_12"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_13"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_14"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_15"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_16"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_17"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_18"
+        android:duration="50" />
+    <item
+        android:drawable="@drawable/funny_19"
+        android:duration="50" />
+
+</animation-list>
